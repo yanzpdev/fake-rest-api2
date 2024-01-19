@@ -1,0 +1,160 @@
+{
+  "taxpayerMenu": [
+    {
+      "name": "Online Registration List"
+    },
+    {
+      "name": "Individual"
+    },
+    {
+      "name": "Juridical"
+    },
+    {
+      "name": "Multiple Ownership"
+    },
+    {
+      "name": "Tools"
+    }
+  ],
+  
+  "financialsMenu": [
+    {
+     "name": "Accounts",
+     "subMenu": [
+        {
+          "name": "Account Master"
+        },
+        {
+          "name": "Account Mapping"
+        },
+        {
+          "name": "Income Target"
+        }
+     ] 
+    },
+    {
+      "name": "Ledgers",
+      "subMenu": [
+        {
+          "name": "Bank Account Ledger"
+        },
+        {
+          "name": "Cash Treasury Ledger"
+        }
+     ] 
+    },
+    {
+      "name": "Reports",
+      "subMenu": [
+        {
+          "name": "Reports"
+        },
+        {
+          "name": "Listing Report"
+        },
+        {
+          "name": "Crosstab Reports"
+        }
+     ]  
+    },
+    {
+      "name": "Journal Entries",
+      "subMenu": [
+        {
+          "name": "Collection Journal Entry Vouchers"
+        },
+        {
+          "name": "Deposit Journal Entry Vouchers"
+        },
+        {
+          "name": "EOR Collection Journal Entry Vouchers"
+        }
+     ]  
+    }
+  ],
+
+  "businessMenu": [
+    {
+      "name": "Transactions",
+      "subMenu": [
+        {
+          "name": "New Application"
+        },
+        {
+          "name": "Renewal"
+        },
+        {
+          "name": "Additional"
+        },
+        {
+          "name": "Retire LOB"
+        },
+        {
+          "name": "Retire Business"
+        },
+        {
+          "name": "Manual Capture"
+        }
+      ]
+    },
+    {
+      "name": "Online",
+      "subMenu": [
+        {
+          "name": "View Online Applications"
+        }
+      ]
+    },
+    {
+      "name": "Migration",
+      "subMenu": [
+        {
+          "name": "Data Migration"
+        },
+        {
+          "name": "View Migrated Businesses"
+        }
+      ]
+    },
+    {
+      "name": "Management",
+      "subMenu": [
+        {
+          "name": "View Applications"
+        },
+        {
+          "name": "View Business Masterlist"
+        },
+        {
+          "name": "View Business Ledgers"
+        },
+        {
+          "name": "View Business Permits"
+        },
+        {
+          "name": "View Red Flags"
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "subMenu": [
+        {
+          "name": "Pre-Assessment"
+        },
+        {
+          "name": "Rule Analyzer"
+        },
+        {
+          "name": "Generate Billing"
+        },
+        {
+          "name": "Build Delinquency Data"
+        },
+        {
+          "name": "Build Payment Items"
+        }
+      ]
+    }
+  ]
+}
